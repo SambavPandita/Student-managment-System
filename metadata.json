@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "An enterprise-grade Student Management System featuring role-based dashboards, course registrar directories, daily attendance marking slots, automated grading calculators, printable transcripts, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
